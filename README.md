@@ -10,3 +10,8 @@ Bucles, while y for.
 Ampliación bucles.
 Introducción proyecto SpaceX.
 Spacex SQL.
+
+* Miércoles 15 de febrero 2023
+Introducción Machine Learning
+Predicción valor del bircoin con Machine Learning
+Libreria Folium
